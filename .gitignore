@@ -1,0 +1,16 @@
+# System tmp files.
+*.o
+.DS_Store
+.*.swp
+key-build*
+*.orig
+*.rej
+*~
+.#*
+*#
+.emacs.desktop*
+TAGS*~
+git-src
+
+# User config
+docker-compose.yml
